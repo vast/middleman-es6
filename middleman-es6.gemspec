@@ -1,9 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
+require "middleman-es6/version"
 
 Gem::Specification.new do |s|
   s.name        = "middleman-es6"
-  s.version     = "0.1.0"
+  s.version     = MiddlemanEs6::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Vasily Polovnyov"]
   s.email       = ["vasily@polovnyov.ru"]
