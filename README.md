@@ -1,4 +1,4 @@
-# Middleman-ES6
+# Middleman-ES6 [![Build Status](https://semaphoreci.com/api/v1/vast/middleman-es6/branches/master/shields_badge.svg)](https://semaphoreci.com/vast/middleman-es6)
 
 Middleman (Sprockets) extension adding support for ES6 (via babel-transpiler).
 
