@@ -1,5 +1,6 @@
 require "middleman-core"
 require "middleman-es6/template"
+require "sprockets"
 
 class MiddlemanEs6Extension < ::Middleman::Extension
   def initialize(app, options_hash={}, &block)
